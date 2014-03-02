@@ -1,0 +1,5 @@
+head
+read
+(how are you)) := write - fine3
+
+/*hello*/
